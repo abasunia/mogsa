@@ -1,0 +1,26 @@
+CHANGES IN VERSION 1.3.2
+fix bug - the "group" argument in "decompose.gs.group" could accept list object.
+
+CHANGES IN VERSION 1.1.1
+-------------------------
+
+NEW FEATURES
+
+    o updated the moCluster functions, including the following exported function:
+    "bootMbpca",
+	"distMoa",
+	"moGap",
+	"softK",
+	"mbpca",
+	"moaScore",
+	"moaCoef"
+
+
+
+
+CHANGES IN VERSION 0.99.4
+-------------------------
+
+NEW FEATURES
+
+    o update prepGraphite function according to the update of Graphite pacakge
